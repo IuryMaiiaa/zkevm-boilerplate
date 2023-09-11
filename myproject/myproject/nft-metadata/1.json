@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "image": "https://magenta-chubby-bobolink-480.mypinata.cloud/ipfs/QmYQKMeCdofSjAQjQ8Vu72Kzuq4wfuG9fdXeRfkG4p6aJh?_gl=1*q8h9ru*_ga*MTMyNjg2MjIzOC4xNjk0NDQwMDgx*_ga_5RMPXG14TE*MTY5NDQ0MDA4My4xLjEuMTY5NDQ0MDczOC42MC4wLjA.",
+    "token_id": "1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Test zkEVM NFT",
+    "description": "This NFT is my first zkEVM NFT created on Immutable",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
